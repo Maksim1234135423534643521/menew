@@ -1,0 +1,1 @@
+[ WARN:0@19.724] global loadsave.cpp:244 cv::findDecoder imread_('buttons/error.PNG'): can't open/read file: check file path/integrity
